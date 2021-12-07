@@ -27,7 +27,7 @@ After collecting and analyzing data I found that there are a few medical issues 
 Issues found in males are not co-related to the issues in females. The most common issues found in females with respect to age are "visual_blurring", "itching", "genital_thrush".
 
 ## File Descriptions
-My analysis can be found in this [file](https://github.com/ccalixwoc/Data-Science-Nanodegree-Project-1/blob/master/dsnd-project-1.ipynb). This Jupyter notebook demonstrates all the related work to answer the questions above. It includes the preprocessing steps required to analyze diabetes datasets. Additionally, it includes all the visualizations used to answer these questions. 
+My analysis can be found in this [file](https://github.com/talhashaikh5/diabetes-analysis/blob/main/diabetes.ipynb). This Jupyter notebook demonstrates all the related work to answer the questions above. It includes the preprocessing steps required to analyze diabetes datasets. Additionally, it includes all the visualizations used to answer these questions. 
 
 ## Results
 You can find my results in this Medium [post](https://medium.com/@talha.shaikh5/3-things-you-should-know-about-diabetes-3b9b7acb4420).
