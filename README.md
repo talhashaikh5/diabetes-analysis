@@ -5,7 +5,7 @@
 2. [Motivation](#Motivation)
 3. [File Descriptions](#FileDescriptions)
 4. [Results](#Results)
-5. [Licensing, Authors and Acknowledgment](#Licensing,AuthorsandAcknowledgment)
+5. [Licensing, Authors, and Acknowledgment](#Licensing,AuthorsandAcknowledgment)
 
 ## Installation
 To run this project, I used Python 3 and installed the following libraries: pandas and matplotlip.
@@ -26,12 +26,11 @@ After collecting and analyzing data I found that there are a few medical issues 
 ### Most common issues in females?
 Issues found in males are not co-related to the issues in females. The most common issues found in females with respect to age are "visual_blurring", "itching", "genital_thrush".
 
-## File Descriptions
+### File Descriptions
 My analysis can be found in this [file](https://github.com/talhashaikh5/diabetes-analysis/blob/main/diabetes.ipynb). This Jupyter notebook demonstrates all the related work to answer the questions above. It includes the preprocessing steps required to analyze diabetes datasets. Additionally, it includes all the visualizations used to answer these questions. 
 
-## Results
+### Results
 You can find my results in this Medium [post](https://medium.com/@talha.shaikh5/3-things-you-should-know-about-diabetes-3b9b7acb4420).
 
-
-## Licensing, Authors, and Acknowledgment
+### Licensing, Authors, and Acknowledgment
 All data were retrieved from Kaggle. You can find the datasets for [diabetes](https://www.kaggle.com/andrewmvd/early-diabetes-classification) here.
